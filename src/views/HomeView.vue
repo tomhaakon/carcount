@@ -1,6 +1,6 @@
 <template>
-  <main class="">
-    <h1>hei dette er en test</h1>
-  </main>
+  <main><Product /></main>
 </template>
-<script setup></script>
+<script setup>
+import Product from "../components/Product.vue";
+</script>
