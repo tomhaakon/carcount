@@ -1,5 +1,5 @@
 <template>
-  <main>
+  <main class="">
     <h1>hei dette er en test</h1>
   </main>
 </template>
