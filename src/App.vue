@@ -1,5 +1,6 @@
 <template>
   <div class="w-full h-screen p-5 bg-slate-900 text-white">
+    <!-- top line -->
     <div>
       <!-- div for light dark -->
       <div class="w-full flex">
@@ -50,12 +51,14 @@
         </div>
       </div>
     </div>
-    <div class="mb-5 h-14 rounded-lg bg-slate-800">
+    <!-- navbar -->
+    <div class="mb-5 h-14 rounded-xl bg-slate-800">
       <NavBar class="" />
     </div>
-    <div class="bg-slate-800 rounded-lg p-4">
+    <!-- Content with footer -->
+    <div class="bg-slate-800 rounded-xl p-4">
       <RouterView class="min-h-[100px]"></RouterView>
-      <Footer class="rounded-lg" />
+      <Footer class="rounded-xl" />
     </div>
   </div>
 </template>
