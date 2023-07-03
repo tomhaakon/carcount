@@ -6,7 +6,7 @@
       <div class="bg-red-600 w-1/3 h-20 mr-5">stat 2</div>
       <div class="bg-red-600 w-1/3 h-20">stat 3</div>
     </div>
-    <div class="bg-yellow-600 w-full h-10 text-xl mb-5">info</div>
+    <div class="bg-yellow-600 w-full h-10 text-xl mb-2">info</div>
   </div>
 
   <!-- <div class="bg-green-700 pb-5">

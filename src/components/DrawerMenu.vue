@@ -13,11 +13,13 @@
 
       <ul class="p-4 w-80 h-full bg-slate-900">
         <!-- Sidebar content here -->
+        <router-link to="/"
+          ><li class="h-10 mb-2 bg-slate-800 text-xl pt-1 pl-5 tracking-widest">
+            Home
+          </li></router-link
+        >
         <li class="h-10 mb-2 bg-slate-800 text-xl pt-1 pl-5 tracking-widest">
-          <a>Home</a>
-        </li>
-        <li class="h-10 mb-2 bg-slate-800 text-xl pt-1 pl-5 tracking-widest">
-          <a>Products</a>
+          <router-link to="/Product">Products</router-link>
         </li>
         <li class="h-10 mb-2 bg-slate-800 text-xl pt-1 pl-5 tracking-widest">
           My Page
