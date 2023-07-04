@@ -11,7 +11,7 @@
         </div>
         <div class="bg-red-600 w-1/3 h-20 mr-5 p-2">
           <div class="h-10">
-            <img src="../assets/truck.svg" class="invert" />
+            <img src="../assets/truck.svg" class="invert w-12" />
           </div>
           <div><p class="text-center text-lg">Trucks</p></div>
         </div>
