@@ -4,7 +4,7 @@
     <!-- mobil meny -->
     <div class="flex">
       <!-- div for venstre meny knapp -->
-      <div class="w-2/12 p-4 fill-slate-500" @click="toggleDrawer">
+      <div class="w-2/12 p-4 fill-slate-300" @click="toggleDrawer">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           viewBox="0 0 26 26"

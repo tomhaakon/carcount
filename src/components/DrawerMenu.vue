@@ -8,7 +8,7 @@
       :checked="showDrawer"
     />
 
-    <div class="drawer-side">
+    <div class="drawer-side z-10">
       <label class="drawer-overlay"></label>
 
       <ul class="p-4 w-80 h-full bg-slate-900">
