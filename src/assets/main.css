@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer utilities {
+  .test-red {
+    /* Tailwind CSS utility classes */
+    @apply bg-red-600;
+  }
+}
